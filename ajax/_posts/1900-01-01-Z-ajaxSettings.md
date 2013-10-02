@@ -12,7 +12,7 @@ described in [$.ajax](#$.ajax). The ones that are useful when set globally are:
   instances of XMLHttpRequest (or a compatible object)
 * `accepts`: MIME types to request from the server for specific `dataType`
   values:
-  - script: "text/javascript, application/javascript"
+  - script: "text/javascript, application/javascript, application/x-javascript"
   - json:   "application/json"
   - xml:    "application/xml, text/xml"
   - html:   "text/html"
